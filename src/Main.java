@@ -23,7 +23,7 @@ public class Main {
 
     // Print
         System.out.println("El cliente es " + sale1.getCustomer().getName());
-        System.out.println("El coche que ha comprado es " + vehicle1.getBrand() + vehicle1.getModel());
+        System.out.println("El coche que ha comprado es " + vehicle1.getBrand() + " " + vehicle1.getModel());
         System.out.println("El color de dicho coche es " + vehicle1.getColor() + " y su potencia es " + vehicle1.getHorsepower() + "CV");
         System.out.println("El código de esta compra es " + sale1.getCode());
 
