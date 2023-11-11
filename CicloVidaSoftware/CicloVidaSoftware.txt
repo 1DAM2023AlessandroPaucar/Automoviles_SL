@@ -1,0 +1,17 @@
+¿Qué etapas tiene el ciclo de vida del software? cómo se llama el ciclo de vida que
+se puede ver en este enunciado?
+
+
+Normalmente, el ciclo de vida se divide en: 
+ -Fase de resolución del problema. 
+o Análisis
+o Diseño   
+- Programación          
+• Fase de implementación.  
+o Codificación o Pruebas   
+• Fase de explotación y mantenimiento  
+
+En este enunciado vemos claramente que se alude a la parte de resolución del problema,
+ya que hemos analizado lo que nos proponia la empresa y hemos diseñado la base un futuro programa
+construyendo un diagrama de clases con la ayuda de LucidChart para luego transcribir dicha estructura a 
+Java.
